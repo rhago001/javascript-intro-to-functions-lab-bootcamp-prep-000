@@ -32,7 +32,7 @@ function sayHiToGrandma (string)
   {
   return("YES INDEED")
   }
-   if (string)
+   if (string === "")
   return("I love you, too.")
   
 }
