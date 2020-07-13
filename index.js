@@ -38,6 +38,6 @@ function sayHiToGrandma (string)
   return("I love you, too.")
   
 }
-return ("are you eating enough")
+return ("are you eating enough?")
 }
 
